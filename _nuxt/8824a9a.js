@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{522:function(n,e,t){"use strict";t.r(e);var l={name:"elumianPage",layout:"eln"},o=t(62),component=Object(o.a)(l,(function(){return(0,this._self._c)("div",[this._v("\n    esto es elumian papa\n")])}),[],!1,null,"33a42d6b",null);e.default=component.exports}}]);
