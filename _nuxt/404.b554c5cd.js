@@ -1,0 +1,1 @@
+import{_ as t,o,f as r,b as a,k as s}from"./entry.3a8b1b37.js";const c={};function n(e,l){return o(),r("div",null,[a(" Layout: 404 "),s(e.$slots,"default")])}const f=t(c,[["render",n]]);export{f as default};

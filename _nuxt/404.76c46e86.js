@@ -1,1 +1,0 @@
-import{_ as t,o,f as r,b as a,k as s}from"./entry.2f5050b2.js";const c={};function n(e,l){return o(),r("div",null,[a(" Layout: 404 "),s(e.$slots,"default")])}const f=t(c,[["render",n]]);export{f as default};
