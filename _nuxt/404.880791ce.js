@@ -1,0 +1,1 @@
+import{_ as t,o,f as r,b as a,q as s}from"./entry.d2df871d.js";const c={};function n(e,l){return o(),r("div",null,[a(" Layout: 404 "),s(e.$slots,"default")])}const f=t(c,[["render",n]]);export{f as default};
